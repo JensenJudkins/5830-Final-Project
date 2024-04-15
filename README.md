@@ -3,6 +3,10 @@
 # Dataset
 https://www.kaggle.com/datasets/sebastianquirarte/over-9-years-of-real-public-bike-use-data-mibici
 
+Potential Datasets
+https://opendata.utah.gov/Transportation/UDOT-Annual-Average-Daily-Traffic-AADT-2013/avvp-hfd7
+https://opendata.utah.gov/dataset/Traffic-Data/erh8-rbn5/about_data
+
 # Introduction
 The concept of publicly available non-emissive transportation, such as scooters or
 bicycles, is not a brand-new concept in civic life. The benefits of such a program existing in a
