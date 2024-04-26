@@ -1,0 +1,2 @@
+ERROR 1: In ExecuteSQL(): sqlite3_prepare_v2(SELECT ST_PointOnSurface(ST_Buffer(geom, 0.000001)) AS geom, * FROM "My Places"):
+  no such table: My Places
